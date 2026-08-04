@@ -21,14 +21,6 @@
 
 ---
 
-## 📖 Project Overview
-
----
-
-## 📖 Project Overview
-
----
-
 # 📖 Project Overview
 
 **Data Transformer** is a SQL-based database project developed to strengthen practical knowledge of relational database management and SQL programming.
