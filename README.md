@@ -368,25 +368,19 @@ The following screenshots demonstrate the successful execution of various SQL op
 
 > **Note:** Add your query output screenshots inside the `Screenshots` folder and update the image paths below.
 
-```text
-aa
 Screenshots/
 │
-├── Database.png
-├── Customers_Table.png
-├── Orders_Table.png
-├── Employees_Table.png
-├── Inner_Join.png
-├── Left_Right_Join.png
-├── Subquery.png
-├── Date_Functions.png
-├── String_Functions.png
-├── Window_Functions.png
-└── Case_Statement.png
-aa
-```   
----
-# 📸 Project Output
+├── Database.PNG
+├── Customers_Table.PNG
+├── Orders_Table.PNG
+├── Employees_Table.PNG
+├── Inner_Join.PNG
+├── Left_Right_Join.PNG
+├── Subquery.PNG
+├── Date_Functions.PNG
+├── String_Functions.PNG
+├── Window_Functions.PNG
+└── Case_Statement.PNG
 
 ---
 
