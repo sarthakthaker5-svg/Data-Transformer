@@ -99,7 +99,7 @@ Data_Transformer/
     ├── String_Functions.png
     ├── Window_Functions.png
     └── Case_Statement.png
-````
+```
 
 ---
 
@@ -114,7 +114,7 @@ Data_Transformer/
 | Number of Tables | 3                             |
 | Sample Records   | Customers, Orders & Employees |
 
-```
+
 
 
 ---
