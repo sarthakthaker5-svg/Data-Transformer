@@ -369,28 +369,93 @@ The following screenshots demonstrate the successful execution of various SQL op
 > **Note:** Add your query output screenshots inside the `Screenshots` folder and update the image paths below.
 
 
-├── Database.PNG
-![Database](Database.PNG)
-├── Customers_Table.PNG
-![Customer_Table](Customer_Table.PNG)
-├── Orders_Table.PNG
-![Orders_Table](Orders_Table.PNG)
-├── Employees_Table.PNG
-![Employees_Table](Employees_Table.PNG)
-├── Inner_Join.PNG
-![Inner_Join](Inner_Join.PNG)
-├── Left_Right_Join.PNG
-![Left_Join](Left_Join.PNG)
-├── Subquery.PNG
-![Subquery](Subquery.PNG)
-├── Date_Functions.PNG
-![Date_Functions](Date_Functions.PNG)
-├── String_Functions.PNG
-![String_Functions](String_Functions.PNG)
-├── Window_Functions.PNG
-![Window_Functions](Window_Functions.PNG)
-└── Case_Statement.PNG
-![Case_Statement](Case_Statement.PNG)
+# 📸 Project Output
+
+## 🗄️ Database
+
+<p align="center">
+  <img src="Database.png" width="900" alt="Database">
+</p>
+
+---
+
+## 👥 Customers Table
+
+<p align="center">
+  <img src="Customers_Table.png" width="900" alt="Customers Table">
+</p>
+
+---
+
+## 🛒 Orders Table
+
+<p align="center">
+  <img src="Orders_Table.png" width="900" alt="Orders Table">
+</p>
+
+---
+
+## 👨‍💼 Employees Table
+
+<p align="center">
+  <img src="Employees_Table.png" width="900" alt="Employees Table">
+</p>
+
+---
+
+## 🔗 INNER JOIN
+
+<p align="center">
+  <img src="Inner_Join.png" width="900" alt="Inner Join">
+</p>
+
+---
+
+## 🔄 LEFT & RIGHT JOIN
+
+<p align="center">
+  <img src="Left_Right_Join.png" width="900" alt="Left Right Join">
+</p>
+
+---
+
+## 🔍 Subquery
+
+<p align="center">
+  <img src="Subquery.png" width="900" alt="Subquery">
+</p>
+
+---
+
+## 📅 Date Functions
+
+<p align="center">
+  <img src="Date_Functions.png" width="900" alt="Date Functions">
+</p>
+
+---
+
+## 🔤 String Functions
+
+<p align="center">
+  <img src="String_Functions.png" width="900" alt="String Functions">
+</p>
+
+---
+
+## 📈 Window Functions
+
+<p align="center">
+  <img src="Window_Functions.png" width="900" alt="Window Functions">
+</p>
+
+---
+
+## 🎯 CASE Statement
+
+<p align="center">
+  <img src="Case_Statement.png" width="900" alt="Case Statement">
+</p>
 
 ---
 
