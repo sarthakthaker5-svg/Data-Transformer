@@ -371,16 +371,27 @@ The following screenshots demonstrate the successful execution of various SQL op
 Screenshots/
 │
 ├── Database.PNG
+![Database](Database.PNG)
 ├── Customers_Table.PNG
+![Customer_Table](Customer_Table.PNG)
 ├── Orders_Table.PNG
+![Orders_Table](Orders_Table.PNG)
 ├── Employees_Table.PNG
+![Employees_Table](Employees_Table.PNG)
 ├── Inner_Join.PNG
+![Inner_Join](Inner_Join.PNG)
 ├── Left_Right_Join.PNG
+![Left_Join](Left_Join.PNG)
 ├── Subquery.PNG
+![Subquery](Subquery.PNG)
 ├── Date_Functions.PNG
+![Date_Functions](Date_Functions.PNG)
 ├── String_Functions.PNG
+![String_Functions](String_Functions.PNG)
 ├── Window_Functions.PNG
+![Window_Functions](Window_Functions.PNG)
 └── Case_Statement.PNG
+![Case_Statement](Case_Statement.PNG)
 
 ---
 
