@@ -30,6 +30,20 @@ The project simulates a simple business environment by managing **Customers**, *
 The project covers a wide range of SQL concepts, from basic database creation to advanced analytical queries, making it an excellent practice project for students and beginners learning MySQL.
 
 ---
+# 🎥 Project Demo Video
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1vIoU8WCL5t1Iv4XKsmdlf4kcYmqpj_1p/view" target="_blank">
+
+<img src="https://img.shields.io/badge/▶️%20Watch%20Project%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+
+</a>
+
+</p>
+
+> 📺 Click the button above to watch the complete project demonstration and SQL explanation video.
+---
 
 # 🎯 Objectives
 
