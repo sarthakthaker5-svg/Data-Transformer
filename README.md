@@ -3,19 +3,25 @@
 
 # 📊 Data Transformer
 
-### SQL Database Operations • Data Transformation • Data Analysis
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=SQL+Database+Operations;Data+Transformation;Data+Analysis;MySQL+Portfolio+Project" alt="Typing SVG" />
 
-<p align="center">
+<br>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Language-336791?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Relational-Database-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Portfolio-Project-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-Database_Tool-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
-</p>
 
-*A beginner-friendly SQL project demonstrating relational database design, data management, analytical queries, and data transformation using MySQL.*
+<br><br>
+
+*A beginner-friendly SQL project demonstrating relational database design, data management, analytical queries, data transformation, and advanced SQL concepts using MySQL.*
 
 </div>
+
+---
+
+## 📖 Project Overview
 
 ---
 
