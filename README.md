@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Data%20Transformer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SQL%20Database%20Operations%20%7C%20Data%20Transformation%20%7C%20Analytics&descAlignY=60&descSize=18"/>
@@ -115,8 +115,8 @@ Data_Transformer/
 | Sample Records   | Customers, Orders & Employees |
 
 ```
-```
-```markdown
+
+
 ---
 
 # 🗄️ Database Tables
@@ -342,8 +342,7 @@ The database includes sample records to demonstrate SQL operations and analytica
 | Function | Purpose |
 |----------|---------|
 | CASE | Categorize Data Based on Conditions |
-```
-````markdown id="rj9k4n"
+
 ---
 
 # 📸 Project Output
