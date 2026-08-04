@@ -82,6 +82,7 @@ The project covers a wide range of SQL concepts, from basic database creation to
 # 📂 Project Structure
 
 ```text
+aa
 Data_Transformer/
 │
 ├── SQL Script.sql
@@ -99,6 +100,7 @@ Data_Transformer/
     ├── String_Functions.png
     ├── Window_Functions.png
     └── Case_Statement.png
+aa
 ```
 
 ---
@@ -366,6 +368,7 @@ The following screenshots demonstrate the successful execution of various SQL op
 > **Note:** Add your query output screenshots inside the `Screenshots` folder and update the image paths below.
 
 ```text
+aa
 Screenshots/
 │
 ├── Database.png
@@ -379,7 +382,8 @@ Screenshots/
 ├── String_Functions.png
 ├── Window_Functions.png
 └── Case_Statement.png
-```
+aa
+```   
 
 ---
 
@@ -487,7 +491,9 @@ Copy the complete SQL script into the editor.
 Execute the script.
 
 ```sql
+aa
 Run ▶ Execute All
+aa
 ```
 
 ---
