@@ -1,22 +1,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Data%20Transformer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SQL%20Database%20Operations%20%7C%20Data%20Transformation%20%7C%20Analytics&descAlignY=60&descSize=18"/>
-
 # 📊 Data Transformer
 
 ### SQL Database Operations • Data Transformation • Data Analysis
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Database](https://img.shields.io/badge/Database-005C84?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-0A66C2?style=for-the-badge)
-![Window Functions](https://img.shields.io/badge/Window-Functions-orange?style=for-the-badge)
-![MySQL Workbench](https://img.shields.io/badge/MySQL-Workbench-00758F?style=for-the-badge)
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Relational-Database-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Project-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
+</p>
 
-*A beginner-friendly SQL project demonstrating database design, relational data management, analytical queries, data transformation, and advanced SQL functions using MySQL.*
+*A beginner-friendly SQL project demonstrating relational database design, data management, analytical queries, and data transformation using MySQL.*
 
 </div>
+
+---
+
+## 📖 Project Overview
 
 ---
 
